@@ -1,0 +1,48 @@
+customer_id,full_name,email,signup_date,phone,city,state,total_spent
+1001,John Smith,john.smith@gmail.com,2023-01-15,(555) 123-4567,New York,NY,120.5
+1002,Sarah Connor,sconnor@yahoo.com,2023-01-22,(555) 987-6543,Los Angeles,CA,450.0
+1003,Michael Jordan,mjordan23@hotmail.com,2023-02-03,(555) 234-5678,Chicago,IL,1250.75
+1004,Emily Davis,emily.davis@gmail.com,2023-02-14,(555) 345-6789,Houston,TX,89.99
+1005,David Wilson,dwilson@outlook.com,2023-03-01,,Phoenix,AZ,310.0
+1006,Jessica Taylor,jtaylor@gmail.com,2023-03-19,(555) 456-7890,Philadelphia,PA,0.0
+1007,Robert Brown,rbrown@company.org,2023-04-05,(555) 567-8901,San Antonio,TX,540.25
+1008,Ashley Miller,ashley.m@gmail.com,2023-04-18,(555) 678-9012,San Diego,CA,0.0
+1009,Christopher Moore,cmoore@yahoo.com,2023-05-02,(555) 789-0123,Dallas,TX,215.4
+1010,Amanda Anderson,amanda_a@hotmail.com,2023-05-15,(555) 890-1234,San Jose,CA,95.0
+1011,Matt Thomas,mthomas@gmail.com,2023-05-28,(555) 901-2345,Austin,TX,670.8
+1012,Jennifer Jackson,jjackson@outlook.com,2023-06-10,(555) 012-3456,Jacksonville,FL,150.0
+1013,Joshua White,jwhite@gmail.com,2023-06-21,(555) 111-2222,Fort Worth,TX,0.0
+1014,Melissa Harris,mharris@gmail.com,2023-07-04,(555) 222-3333,Columbus,OH,320.1
+1015,Daniel Martin,dmartin@yahoo.com,2023-07-19,(555) 333-4444,Charlotte,NC,880.0
+1016,Stephanie Thompson,sthompson@gmail.com,2023-08-01,(555) 444-5555,San Francisco,CA,410.25
+1017,Andrew Garcia,agarcia@hotmail.com,2023-08-14,,Indianapolis,IN,199.99
+1018,Nicole Martinez,nmartinez@gmail.com,2023-08-25,(555) 555-6666,Seattle,WA,75.5
+1019,Kevin Robinson,krobinson@outlook.com,2023-09-09,(555) 666-7777,Denver,CO,1100.0
+1020,Elizabeth Clark,eclark@gmail.com,2023-09-18,(555) 777-8888,Boston,MA,260.0
+1021,Brandon Rodriguez,brodriguez@yahoo.com,2023-10-03,(555) 888-9999,El Paso,TX,55.0
+1022,Megan Lewis,mlewis@gmail.com,2023-10-15,(555) 999-0000,Nashville,TN,390.45
+1023,Justin Lee,jlee@gmail.com,2023-10-29,(555) 000-1111,Detroit,MI,140.0
+1024,Rachel Walker,rwalker@hotmail.com,2023-11-11,(555) 121-2121,Oklahoma City,OK,615.3
+1025,Tyler Hall,thall@gmail.com,2023-11-24,(555) 232-3232,Portland,OR,0.0
+1026,Lauren Allen,lallen@outlook.com,2023-12-05,(555) 343-4343,Las Vegas,NV,285.0
+1027,Ryan Young,ryoung@gmail.com,2023-12-18,(555) 454-5454,Memphis,TN,720.0
+1028,Kayla Hernandez,khernandez@yahoo.com,2024-01-07,(555) 565-6565,Louisville,KY,95.75
+1029,Jacob King,jking@gmail.com,2024-01-19,(555) 676-7676,Baltimore,MD,430.0
+1030,Brittany Wright,bwright@hotmail.com,2024-02-02,(555) 787-8787,Milwaukee,WI,180.2
+1031,Nicholas Lopez,nlopez@gmail.com,2024-02-14,(555) 898-9898,Albuquerque,NM,510.6
+1032,Samantha Hill,shill@gmail.com,2024-02-29,(555) 909-0909,Tucson,AZ,65.0
+1033,Eric Scott,escott@outlook.com,2024-03-10,(555) 010-1010,Fresno,CA,940.0
+1034,Amber Green,agreen@gmail.com,2024-03-22,,Sacramento,CA,210.5
+1035,Jonathan Adams,jadams@yahoo.com,2024-04-04,(555) 131-3131,Kansas City,MO,335.8
+1036,Danielle Baker,dbaker@gmail.com,2024-04-17,(555) 242-4242,Mesa,AZ,115.0
+1037,Justin Gonzalez,jgonzalez@hotmail.com,2024-05-01,(555) 353-5353,Atlanta,GA,490.25
+1038,Christina Nelson,cnelson@gmail.com,2024-05-14,(555) 464-6464,Omaha,NE,0.0
+1039,Brandon Carter,bcarter@outlook.com,2024-05-28,(555) 575-7575,Colorado Springs,CO,775.4
+1040,Stephanie Mitchell,smitchell@gmail.com,2024-06-09,(555) 686-6868,Raleigh,NC,160.0
+1041,Alexander Perez,aperez@yahoo.com,2024-06-21,(555) 797-9797,Miami,FL,820.15
+1042,Rebecca Roberts,rroberts@gmail.com,2024-07-03,(555) 808-0808,Oakland,CA,135.9
+1043,Patrick Turner,pturner@gmail.com,2024-07-16,(555) 919-1919,Minneapolis,MN,295.0
+1044,Laura Phillips,lphillips@hotmail.com,2024-07-29,(555) 020-2020,Tulsa,OK,405.5
+1045,Gregory Campbell,gcampbell@gmail.com,2024-08-11,(555) 141-4141,Cleveland,OH,550.0
+1046,Katherine Parker,kparker@outlook.com,2024-08-24,(555) 252-5252,Wichita,KS,88.25
+1047,Benjamin Evans,bevans@gmail.com,2024-09-05,(555) 363-3636,Arlington,TX,640.0

@@ -1,0 +1,51 @@
+customer_id,full_name,email,signup_date,phone,city,state,total_spent
+1001,  john smith ,john.smith@gmail.com,2023-01-15,(555) 123-4567,New York,NY,$120.50
+1002,SARAH CONNOR,sconnor@yahoo.com,01/22/2023,555-987-6543,los angeles,ca,450.00
+1003,Michael Jordan,mjordan23@hotmail.com,2023/02/03,555.234.5678,Chicago,Illinois,1250.75
+1004,emily davis,emily.davis@gmial.com,Feb 14 2023,5553456789,Houston,TX,89.99
+1005,David Wilson,dwilson@outlook.com,2023-03-01,N/A,Phoenix,AZ,$310.00
+1001,  john smith ,john.smith@gmail.com,2023-01-15,(555) 123-4567,New York,NY,$120.50
+1006,Jessica Taylor,jtaylor@gmail.con,03-19-2023,(555) 456-7890,Philadelphia,PA,0
+1007,Robert Brown,rbrown@company.org,2023-04-05,555 567 8901,San Antonio,Texas,540.25
+1008,  Ashley   Miller,ashley.m@gmail.com,2023.04.18,555-678-9012,San Diego,CA,
+1009,Christopher Moore,cmoore@yahoo.com,05/02/2023,+1-555-789-0123,Dallas,tx,215.40
+1010,Amanda Anderson,amanda_a@hotmail.com,2023-05-15,5558901234,San Jose,California,$95.00
+1011,Matthew Thomas,mthomas@gmail.com,May 28 2023,(555) 901-2345,Austin,TX,670.80
+1012,JENNIFER JACKSON,jjackson@outlook.com,2023-06-10,555-012-3456,Jacksonville,FL,150.00
+1013,Joshua White,jwhite@gmial.com,06/21/2023,555.111.2222,Fort Worth,TX,-45.00
+1014,Melissa Harris,mharris@gmail.com,2023-07-04,5552223333,Columbus,Ohio,320.10
+1015,Daniel Martin,dmartin@yahoo.con,2023/07/19,(555) 333-4444,Charlotte,NC,880.00
+1016,Stephanie Thompson,sthompson@gmail.com,08-01-2023,555-444-5555,San Francisco,CA,$410.25
+1017,Andrew Garcia,agarcia@hotmail.com,2023-08-14,,Indianapolis,IN,199.99
+1018,Nicole Martinez,nmartinez@gmail.com,Aug 25 2023,555-555-6666,Seattle,Washington,75.50
+1019,Kevin Robinson,krobinson@outlook.com,2023-09-09,5556667777,Denver,CO,1100.00
+1020,  Elizabeth Clark ,eclark@gmail.com,09/18/2023,(555) 777-8888,boston,ma,260.00
+1002,Sarah Connor,sconnor@yahoo.com,01/22/2023,555-987-6543,Los Angeles,CA,450.00
+1021,Brandon Rodriguez,brodriguez@yahoo.com,2023-10-03,555.888.9999,El Paso,TX,$55.00
+1022,Megan Lewis,mlewis@gmial.com,10-15-2023,555-999-0000,Nashville,TN,390.45
+1023,Justin Lee,jlee@gmail.com,2023.10.29,5550001111,Detroit,Michigan,140.00
+1024,Rachel Walker,rwalker@hotmail.com,11/11/2023,(555) 121-2121,Oklahoma City,OK,615.30
+1025,tyler hall,thall@gmail.con,2023-11-24,555-232-3232,Portland,OR,NULL
+1026,Lauren Allen,lallen@outlook.com,Dec 05 2023,5553434343,Las Vegas,NV,285.00
+1027,Ryan Young,ryoung@gmail.com,2023-12-18,+1 (555) 454-5454,Memphis,Tennessee,$720.00
+1028,Kayla Hernandez,khernandez@yahoo.com,01/07/2024,555-565-6565,Louisville,KY,95.75
+1029,Jacob King,jking@gmail.com,2024-01-19,555.676.7676,Baltimore,MD,430.00
+1030,Brittany Wright,bwright@hotmail.com,02-02-2024,5557878787,Milwaukee,Wisconsin,180.20
+1031,Nicholas Lopez,nlopez@gmail.com,2024/02/14,(555) 898-9898,Albuquerque,NM,$510.60
+1032,Samantha Hill,shill@gmial.com,2024-02-29,555-909-0909,Tucson,AZ,65.00
+1033,ERIC SCOTT,escott@outlook.com,Mar 10 2024,5550101010,Fresno,CA,940.00
+1034,amber green,agreen@gmail.com,2024-03-22,N/A,Sacramento,California,210.50
+1035,Jonathan Adams,jadams@yahoo.con,04/04/2024,(555) 131-3131,Kansas City,MO,335.80
+1036,Danielle Baker,dbaker@gmail.com,2024-04-17,555-242-4242,Mesa,AZ,$115.00
+1037,Justin Gonzalez,jgonzalez@hotmail.com,05-01-2024,5553535353,Atlanta,Georgia,490.25
+1038,christina nelson,cnelson@gmail.com,2024.05.14,555.464.6464,Omaha,NE,0.00
+1039,brandon carter,bcarter@outlook.com,2024-05-28,(555) 575-7575,Colorado Springs,CO,775.40
+1040,Stephanie Mitchell,smitchell@gmail.com,Jun 09 2024,555-686-6868,Raleigh,NC,$160.00
+1011,Matt Thomas,mthomas@gmail.com,2023-05-28,5559012345,Austin,Texas,670.80
+1041,Alexander Perez,aperez@yahoo.com,2024-06-21,5557979797,Miami,FL,820.15
+1042,Rebecca Roberts,rroberts@gmial.com,07/03/2024,(555) 808-0808,Oakland,CA,135.90
+1043,Patrick Turner,pturner@gmail.com,2024-07-16,555-919-1919,Minneapolis,Minnesota,295.00
+1044,Laura Phillips,lphillips@hotmail.com,07-29-2024,5550202020,Tulsa,OK,$405.50
+1045,  Gregory Campbell ,gcampbell@gmail.con,2024-08-11,555.141.4141,Cleveland,OH,550.00
+1046,katherine parker,kparker@outlook.com,Aug 24 2024,(555) 252-5252,Wichita,KS,88.25
+1047,Benjamin Evans,bevans@gmail.com,2024-09-05,555-363-3636,Arlington,TX,640.00
